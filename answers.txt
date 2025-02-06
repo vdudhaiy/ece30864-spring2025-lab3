@@ -19,3 +19,19 @@ The cons of non-Agile development are as follows:
 b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
 
 The Scrum Master deals with all Scrum-related tasks such as Jira tooling, facilitating sprints and meetings, as well as standups. The Product Owner sets the direction for the team and handles the release and stakeholder management.
+
+c) What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed in each of these meetings. 
+
+The 3 types of meetings that happen during a sprint cycle are the sprint planning meeting, the daily scrum/standup meeting and the sprint retrospective meeting. 
+
+The points of discussion in a sprint planning meeting are as follows:
+1. Determine what to complete in the next sprint. 
+2. Determine story points and assign stories to the team.
+
+The points of discussion in a daily scrum/standup meeting are as follows:
+1. Each team member will discuss the work that they have completed
+2. Each team member will discuss the work that they plan on doing for the day and any blockers they may have.
+
+The points of discussion in a sprint retrospective meeitng are as follows:
+1. Discuss the work completed at the end of the sprint.
+2. Move incomplete backlog to the next sprint.
