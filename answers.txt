@@ -35,3 +35,11 @@ The points of discussion in a daily scrum/standup meeting are as follows:
 The points of discussion in a sprint retrospective meeitng are as follows:
 1. Discuss the work completed at the end of the sprint.
 2. Move incomplete backlog to the next sprint.
+
+d) Differentiate between Epic, Story, Bug, and Task issue types in Jira. 
+
+An Epic captures the larger body of work that can be broken down into several smaller stories. 
+A Story is a software system requirement that is expressed in a few short sentences. 
+An Issue is a unit of work that can be tracked on the workflow. It can range from a bug (smallest unit of work) to an epic (which is the largest unit of work)
+A Bug is a problem that impairs the product's functionality and can block stories.
+A Task is all the bits and pieces of work that need to be done to complete a story.
