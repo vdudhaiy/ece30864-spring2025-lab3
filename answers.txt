@@ -15,3 +15,7 @@ The pros of non-Agile development are as follows:
 The cons of non-Agile development are as follows:
 1. The project would not be able to adapt to scope changes unlike in agile methodology.
 2. There is little room for customer feedback before deployment since it is not necessarily an iterative process.
+
+b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+
+The Scrum Master deals with all Scrum-related tasks such as Jira tooling, facilitating sprints and meetings, as well as standups. The Product Owner sets the direction for the team and handles the release and stakeholder management.
