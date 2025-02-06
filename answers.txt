@@ -1,1 +1,17 @@
+a) What are some pros and cons of Agile development (vs non-Agile)? List 2 of each. 
 
+The pros of Agile development are as follows:
+1. Agile development allows for easy collaboration within a team.
+2. It allows teams to be more resilient to scope changes in the project.
+
+The cons of Agile development are as follows:
+1. Agile development leads to increased overheadh because the amount of time spent planning, coordinating, and communicating via agile frameworks can cause trouble for teams with tigher deadlines or smaller teams.
+2. Agile methodology places an emphasis on self-organization and communication, and this process would be severely hindered if the team dynamics do not match the necessary requirements.
+
+The pros of non-Agile development are as follows:
+1. There is more detailed documentation in non-Agile development
+2. The sequential nature of Waterfall makes it easier to manage and control projects. 
+
+The cons of non-Agile development are as follows:
+1. The project would not be able to adapt to scope changes unlike in agile methodology.
+2. There is little room for customer feedback before deployment since it is not necessarily an iterative process.
